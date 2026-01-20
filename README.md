@@ -1,12 +1,9 @@
 # ROMAN GORDIENKO
-I am Linux system administrator and devops engineer. 
+I am Linux and devops engineer. 
 
 ## SKILLS
-- Linux (Ubuntu, RedHat);
-- Scripting (Bash);
-- Containers (Docker, Docker swarm, Kubernetes);
-- Automation (Ansible, Puppet);
-- Monitoring (Prometheus, Alertmanager, Grafana);
-- Log analysis (ELK, Fluent Bit);
-- CI/CD (Gitlab);
-- Misc (Teleport, Nexus Repository).
+- Linux: Ubuntu, RedHat;
+- Kubernetes: Talos, kubeadm, Cilium, Vault, ESO, SOPS, OTeL, KEDA, CNPG;
+- CI/CD: Gitlab, ArgoCD, Nexus, Helm, Kustomize;
+- Database: PostgreSQL, Redis, RabbitMQ, MongoDB;
+- Observability: Prometheus, Grafana, OpenSearch, Sentry.
